@@ -7,6 +7,7 @@ public class Q2_Allmissing {
         int []arr = {4,3,2,7,8,2,3,1};
         cyclicsort(arr);
         System.out.println(Arrays.toString(arr));
+        System.out.println(missingarray(arr));
     }
     static List<Integer> missingarray(int[]nums){
         List<Integer> ans = new ArrayList<>();

@@ -70,6 +70,7 @@ public class LL1 {
         }
         System.out.println("END");
     }
+
     private class Node{
         int value;
         Node next;

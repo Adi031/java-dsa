@@ -1,8 +1,8 @@
-package DSA.BinaryTree;
+package DSA.Trees.BinaryTree;
 
 public class BinarySearchTree {
 
-//    Defininf Node
+//    Defining Node
     public class Node{
         private int value;
         private int height;
